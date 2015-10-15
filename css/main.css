@@ -1,0 +1,200 @@
+li{
+	display: inline-block;
+	position: relative;
+	font-size: 15px;
+	color: #333;
+	font-weight: bold;
+	font-family: arial;
+	margin-top: 50px;
+	left: 33%
+	
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 50 0 100;
+	float: none;
+	margin: auto;
+	font-size: 14px;
+	line-height: 14px;
+	
+	
+}
+
+nav li{
+	position: relative;
+	float: none;
+
+}
+
+nav li:hover a{
+	background: #FFCCCC;
+}
+
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #333;
+	
+}
+
+nav a:hover{
+	color: #CC66CC;
+}
+
+.foto{
+	background-image: url("../images/background.jpg");
+	background-size: 100%;
+	min-height: 290px;
+	background-repeat: no-repeat;
+	margin-top: 15px;
+	margin-bottom: -25px;
+}
+
+#logo{
+	margin-top: 35px;
+	position: relative;
+	left:45%;
+}
+
+.name{
+	font-family: arial;
+	color: #FFF0F5;
+	font-size: 30px;
+	position: relative;
+	left: 28%;
+	margin-top: 12px;
+	margin-bottom: 0px;
+}
+
+.tag{
+	font-family: arial;
+	color: #FFFAF0;
+	position: relative;
+	left: 35%;
+
+}
+
+.foto2{
+	background-image: url("../images/tile1.png");
+	background-size: 100%;
+	min-height: 380px;
+	background-repeat: no-repeat;
+}
+
+.profile{
+	width: 80%;
+	height:80%;
+	margin-top: 160px;
+	border: 3px solid #DA70D6;
+	padding: 4px;
+	position: relative;
+	left: 30px;
+}
+
+
+h2{
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 35px;
+	color: #CC66CC;
+	position: relative;
+	left: 22%;
+	margin-top: 100px;
+	margin-bottom: 20px;
+
+}
+
+p{
+	font-family: arial;
+	font-size: 14px;
+
+}
+
+.fav{
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 35px;
+	color: #CC66CC;
+	position: relative;
+	left: 36%;
+	margin-top: 80px;
+	margin-bottom: 10px;
+}
+
+.love{
+	font-family: arial;
+	font-weight: bold;
+	color: #CC66CC;
+	position: relative;
+	left: 37%;
+	margin-bottom: 30px;
+	
+}
+
+.imgpeque{
+	width: 22%;
+	height: 10%;
+	border-radius: 50%;
+	left: 30px;
+	margin-left: 15px;
+	padding: 4px;
+	border: 4px solid #DA70D6;
+
+}
+
+
+.verticalLine {
+    border: 5px solid #999999;
+    height: 200px;
+    width: 4px;
+  	border-radius: 5px;
+  	float: right;
+  	margin-top: -150px;
+  	right: 300px;
+  	position: relative;
+  	left: 30px;
+ 
+
+ }
+
+.foto3{
+	background-image: url("../images/tile2.png");
+	background-repeat: repeat;
+	height: 400px;
+	margin-top: 40px;
+	
+}
+
+.contact{
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 35px;
+	color: #CC66CC;
+	position: relative;
+	left: 43%;
+	margin-top: 90px;
+	margin-bottom: 10px;
+}
+
+.redes{
+	width: 10%;
+	height: 10%;
+	margin-top: 40px;
+	margin-left: 50px;
+	position: relative;
+	left: 26%
+}
+
+.verticalLine2 {
+    border: 5px solid #999999;
+    height: 220px;
+    width: 4px;
+  	border-radius: 5px;
+  	float: right;
+  	margin-top: 26px;
+  	position: relative;
+  	left: 30px;
+  
+
+ }
